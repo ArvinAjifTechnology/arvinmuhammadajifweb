@@ -1,0 +1,27 @@
+  h1 {
+    font-family: comic sans Ms;
+    color: green;
+    background-image: url("isikangambar disini");
+    text-align: center;
+  }
+  body {
+      background-image: url("isikangambar disini");
+      background-size: 100%;
+    background-repeat: repeat;
+      background-position: center;
+      padding: 50px;    }
+  img{
+    position: center;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  h2{
+    text-align: center;
+  }
+  h5{
+    text-align: center;
+  }
+  ul{
+    text-align: center;
+  }
